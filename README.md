@@ -55,3 +55,45 @@ cd spotify_page
 ## Screenshots
 ### HomePage
 ![Homepage](homepage.png)
+
+---
+
+# 🎓 Learning Outcomes
+
+Through this project, I learned:
+
+- HTML page structuring
+- CSS styling and layouts
+- Flexbox and responsive design
+- Music player UI design
+- Image and icon integration
+- Navigation bar creation
+- Sidebar and playlist section designing
+- Hover effects and animations
+- Building responsive web pages
+
+---
+
+# 🔮 Future Improvements
+
+- Add JavaScript functionality
+- Add real music playback
+- Add dark/light mode
+- Add responsive mobile optimization
+- Add playlist interaction features
+
+---
+
+# 👨‍💻 Author
+
+### Simran 
+B.Tech Student | Frontend Developer
+
+GitHub:
+https://github.com/Simran092004
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
